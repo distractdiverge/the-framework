@@ -22,5 +22,11 @@
   },
   "bugs": {
     "url": "https://github.com/alexlapinski/the-framework/issues"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "logging": "^3.2.0"
   }
 }
